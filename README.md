@@ -9,12 +9,12 @@ Part of understanding Service Lifetimes is knowing how they appear in code. For 
 
 1. Clone this repo
 2. Open the app in Visual Studio
-3. RUn the app from Visual Studio
+3. Run the app from Visual Studio
 4. Ensure you can See both IIS and the Console. 
 5. Call the "/api/Step0_StartHere endpoint
 6. Read the console output
 7. Follow the instructions in red from the console output
 8. Repeat steps 6 & 7 until you've completed all steps
 
-#Learning More
+# Learning More
 After you're done learning from this repo, you should head over to <<TODO: Add Repository Link here>> to learn about some confusing situations involving Service Lifetimes
